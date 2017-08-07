@@ -19,7 +19,7 @@ app.get('/article-one',function(req,res){
 });
 
 app.get('/login',function(req,res){
-    res.send("This page is under construction!!")
+   res.sendFile(path.join(__dirname, 'ui', 'login.html'));
     
 });
 
