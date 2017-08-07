@@ -1,2 +1,2 @@
 console.log('Loaded!');
-alert("Hi,Shanti");
+//alert("Hi,Shanti");
