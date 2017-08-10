@@ -18,6 +18,7 @@ body {
 }
 
 .img-medium {
+    margin:auto;
     float:center;
     height: 250px;
 }
