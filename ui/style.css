@@ -18,7 +18,7 @@ body {
 }
 
 .img-medium {
-    align:center;
+    float:center;
     height: 250px;
 }
 
